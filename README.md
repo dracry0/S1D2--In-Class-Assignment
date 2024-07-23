@@ -14,10 +14,6 @@ Ensure you have [Node.js](https://nodejs.org/) installed. You can download and i
 
    Clone this repository to your local machine using:
 
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
- 
   ```bash
    npm install
    npm install dotenv
