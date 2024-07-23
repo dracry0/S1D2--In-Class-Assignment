@@ -19,8 +19,16 @@ Ensure you have [Node.js](https://nodejs.org/) installed. You can download and i
    cd <repository-directory>
  
   ```bash
-  npm install
+   npm install
+   npm install dotenv
+   npm install --save openai
+   npm install openai readline-sync
+   
+
+
   ```
+
+
 
 
 Create a .env file in the root directory of the project with the following content:
